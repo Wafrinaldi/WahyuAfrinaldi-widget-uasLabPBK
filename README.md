@@ -1,4 +1,7 @@
 # wahyu_afrinaldi-widget
+# uas lab pbk
+NAMA : WAHYU AFRINALDI
+NPM : 213510321
 
 ## Project setup
 ```
